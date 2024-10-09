@@ -4,7 +4,7 @@ Snake Game with an Arduino in C++ using a 8x8 LED Matrix display and a JoyStick 
 ## Connections
 - Button -> PIN 3
 - Buzzer -> PIN 7
-- 8x8 Matrix LED -> DataIn | PIN 12, CLK | PIN 11, LOAD | PIN 10
+- 8x8 Matrix LED -> DataIn : PIN 12 | CLK : PIN 11 | LOAD : PIN 10
 
 ## Important Info
 - Make sure to calibrate your JoyStick
